@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../assets/images/logo.png'
+import logo from '../assets/logo.png'
 
 const Navbar = () => {
   return (
@@ -17,7 +17,7 @@ const Navbar = () => {
                 alt="React logo"
               />
               <span className="hidden md:block text-white text-2xl font-bold ml-2"
-                >Jobs</span
+                >React Jobs</span
               >
             </a>
             <div className="md:ml-auto">
@@ -35,8 +35,7 @@ const Navbar = () => {
                 <a
                   href="/add-job.html"
                   className="text-white hover:bg-gray-900 hover:text-white rounded-md px-3 py-2"
-                  >Add Job</a
-                >
+                >Add Job</a>
               </div>
             </div>
           </div>

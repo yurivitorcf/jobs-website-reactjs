@@ -24,8 +24,8 @@ const HomeCards = () => {
               List your job to find the perfect role for you
             </p>
             <a
-              href='/jobs'
-                lassName='inline-block bg-black text-white rounded-lg px-4 py-2 hover:bg-gray-700'
+              href='/add-job.html'
+                className='inline-block bg-indigo-500 text-white rounded-lg px-4 py-2 hover:bg-indigo-600'
             >
               Add Job
             </a>  
