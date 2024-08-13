@@ -36,7 +36,7 @@ function JobListing({job}) {
                         {job.location}
                     </div>
                     <Link
-                        to={`/jobs/${job.id}`}
+                        to={`/job/${job.id}`}
                         className='h=[36px] bg-indigo-500 text-white rounded-lg px-4 py-2 hover:bg-indigo-600'
                     >
                     Read More
