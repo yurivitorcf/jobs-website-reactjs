@@ -29,8 +29,8 @@ To get started with the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/job-listing-app.git
-   cd job-listing-app
+   git clone https://github.com/your-username/jobs-website-reactjs.git
+   cd jobs-website-reactjs
    ```
 
 2. **Install the dependencies:**
